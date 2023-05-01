@@ -1,0 +1,5 @@
+- Set-ExecutionPolicye Unrestricted
+- az login
+- az group list -o yaml
+- az group create --name rg-buraktest1 --location westeurope
+- az group list -o table
